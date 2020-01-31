@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206599228378",
+    "firebase_url": "https://contratarprofissional-3354c.firebaseio.com",
+    "project_id": "contratarprofissional-3354c",
+    "storage_bucket": "contratarprofissional-3354c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206599228378:android:c7f115e9c3f0e2db19cee3",
+        "android_client_info": {
+          "package_name": "faxyma.magaroti.joaovitor.com.faxyma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206599228378-bvrmohctponpv4p3ooonejom77r81dv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "faxyma.magaroti.joaovitor.com.faxyma",
+            "certificate_hash": "b9e4c60ef5779f7caa639c3f2d901c1c95850fa2"
+          }
+        },
+        {
+          "client_id": "206599228378-6goih93oapm6gffg2ojqasp5gaqehsp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpG42H6plbyyqgHb8R-MsUJu9C9h1GCq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206599228378-6goih93oapm6gffg2ojqasp5gaqehsp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
